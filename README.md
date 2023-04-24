@@ -10,7 +10,7 @@ There are three components to OwnYou's MVP - an application for the individual u
 - The OwnYou advertiser SDK MVP needs to be so useful, and insightful, that even the most entrenched advertiser will want to use it, and share it.
 
 Each use case needs to be simple as possible.</br>
-The MVP establishes a minimum use case per principal stakeholder.
-We may choose to mimimic an operational intelligence stack.
+The MVP establishes a minimum use case per principal stakeholder.</br>
+We may choose to mimimic an operational intelligence stack.</br>
 
 You can find more specific MVP requirements in the Projects section.
