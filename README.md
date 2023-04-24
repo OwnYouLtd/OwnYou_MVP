@@ -13,4 +13,4 @@ Each use case needs to be simple as possible.</br>
 The MVP establishes a minimum use case per principal stakeholder.</br>
 We may choose to mimimic an operational intelligence stack.</br>
 
-You can find more specific MVP requirements in the Projects section.
+Specific MVP requirements can be found in the Projects section but we would encourage you to explore the OwnYou [documentation pages](www.ownyou.io) first.
