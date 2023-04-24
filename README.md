@@ -1,5 +1,6 @@
 # MVP (or ELP)
 Minimal Viable or [Earliest Lovable](https://github.com/mrkrumhausen) Product.
+
 For more information on OwnYou, visit the [documentation pages](www.ownyou.io).
 
 There are three components to OwnYou's MVP - an application for the individual user, a publisher SDK and an advertiser SDK.
