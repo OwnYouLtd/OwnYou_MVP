@@ -135,7 +135,5 @@ Early adopters. Frustrated by increasingly poor attribution data. Advertiser tha
 
 ## What is our go-to-market?
 1. The app is fun, it is free, it is novel - early adopters want to experiment. Small marketing budget at web 3 conferences, promotion via popular tech/crypto podcasts, speaking events 
-2. Publishers that want to experiment with verifiable zero-party personal metadata. They deploy the ownyou login SDK which attracts more user app downloads as early adopter
-> SSP partnership?
-3. Advertisers value to quality of OwnYou meta-data, they suggest more publishers use the free SDK.
-> DSP partnership
+2. Publishers that want to experiment with verifiable zero-party personal metadata. They deploy the ownyou login SDK which attracts more user app downloads as early adopter. We are exploring SSP partnerships.
+3. Advertisers value to quality of OwnYou meta-data, they suggest more publishers use the free SDK. We are exploring DSP partnerships.
