@@ -30,19 +30,19 @@ OwnYou develops open-source software for users, publishers and advertisers. OwnY
 
 OwnYou makes money by facilitating personal data transactions using a public blockchain. That money is put back into developing open-source software for users, and businesses that wish to connect to users, while protecting user personal data privacy.
 
-There are three core components to the OwnYou software stack:
+#### There are three core components to the OwnYou software stack:
 - A Consumer Application
 - A Publisher SDK
 - An Advertiser SDK
 
-The OwnYou MVP needs to demonstrate three things:
+#### The OwnYou MVP needs to demonstrate three things:
 1. how pseudonymous personal user data drives more relevant advertising, benefiting publishers and advertisers.
 2. how attribution hashes provide advertisers with the attribution information they need, and compensates users for providing it, without data harvesters, processors or any middlemen.
 3. how decentralized technology makes that possible without centrally managed services.
 
 A successful MVP will result in publisher, advertiser and individual user sign-ups.
 
-The main technologies used include:
+#### The main technologies used include:
 - A digital wallet, verified credentials and decentralized identifiers (DIDs)
 - Decentralized Web Nodes (DWN) and Encrypted Data Vaults (EDV)
 - Cryptographic hashing functions and digital signature schemes
