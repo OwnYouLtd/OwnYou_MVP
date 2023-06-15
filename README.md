@@ -94,7 +94,7 @@ The MVP needs to demonstrate a simple user attribution data cycle. We want to de
 - An agent that uses a hashing protocol to create one time-hashes specific to an advertiser campaign and time-stamp. 
 
 #### Options to make the user app more engaging
-If we feel the user MVP value proposition won't keep users engaged, we should explore what would make users want to connect more personal data, and revisit the application. We have a few options, including a personalized ChatGPT. This is already a crowded space but that should me less development work.
+If we feel the user MVP value proposition won't keep users engaged, we should explore what would make users want to connect more personal data, and revisit the application. We have a few options, including a personalized ChatGPT. This is already a crowded space but that might suggest less development work.
 - Chatting with your digital self - a fun and engaging application that allows the user to interact with their digital self, asking questions to, and about, their digital "self".
 	- "what did I spend the most on last week?"
 	- "where should I go on holiday this summer?"
