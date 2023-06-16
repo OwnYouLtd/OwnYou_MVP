@@ -13,7 +13,7 @@ Each use case needs to be simple as possible.</br>
 The MVP establishes a minimum use case per principal stakeholder.</br>
 We may choose to mimimic an operational intelligence stack.</br>
 
-Specific MVP requirements can be found in the [Projects](https://github.com/OwnYouLtd/mvp/projects?query=is%3Aopen) section but we would encourage you to explore the OwnYou [documentation pages](www.ownyou.io) first, and discuss the requirements in either the OwnYou [discussion](https://github.com/orgs/OwnYouLtd/discussions) boards on GitHub or on [Discord](https://discord.com/channels/960473414978646036/960473414978646040).
+Specific MVP requirements can be found in the [Projects](https://github.com/OwnYouLtd/mvp/projects?query=is%3Aopen) section but we would encourage you to explore the OwnYou [documentation pages](http://www.ownyou.io) first, and discuss the requirements in either the OwnYou [discussion](https://github.com/orgs/OwnYouLtd/discussions) boards on GitHub or on [Discord](https://discord.com/channels/960473414978646036/960473414978646040).
 
 ## MVP Goals
 A successful MVP helps validate our US$700bn TAM.
