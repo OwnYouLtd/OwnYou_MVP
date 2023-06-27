@@ -1,4 +1,4 @@
-# MVP (or ELP)
+# MVP
 Minimal Viable or [Earliest Lovable](https://github.com/mrkrumhausen) Product.
 
 For more information on OwnYou, visit the [documentation pages](http://www.ownyou.io).
