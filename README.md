@@ -22,7 +22,9 @@ Leveraging decentralized technology primitives creates room for an entirely new 
 This MVP lights up a path for OwnYou. 
 
 ## The OwnYou MVP
-OwnYou develops open-source software for users, publishers and advertisers. OwnYou does not collect, process or use personal user data. The following summarizes why people, publishers and advertisers will user OwnYou:
+OwnYou develops open-source software for users, publishers and advertisers. OwnYou does not collect, process or use personal user data. 
+
+The following summarizes why people, publishers and advertisers will user OwnYou:
 
 - Individual's use OwnYou because it is easy to log into websites, and they make money doing so. The more personal data they collect, the more relevant the advertising they receive and the more income they generate. Their data never leaves their direct control or ownership. OwnYou does not collect, manage or process personal user data.
 - Publishers like OwnYou because higher quality zero-party user metadata boosts the quality of their inventory. They get that data from individuals directly. They do not need to integrate with any third-party systems. 
@@ -51,14 +53,22 @@ A successful MVP will result in publisher, advertiser and individual user sign-u
 
 ## The OwnYou roadmap and the MVP
 
+#### Using Verified Credentials
+OwnYou will make it easy for users to import and use their Verified Credentials. The Consumer App will extract key demographics and store them in the users DWN. 
+
+The user shares demographics information, target audience information and verified credentials with advertisers, in the bid stream. Verified Credential proofs are created for advertisers to verify the credential's and issuer's authenticity, asynchronously. 
+
+Verified Credentials are only shared with a) selective disclosure which excludes personally identifiable information, b) with holder binding and c) blinding, ensuring the credential's authenticity can be confirmed, but the user's privacy is protected. 
+
 #### Collecting Personal Data
-OwnYou will provide the means for individuals to aggregate their personal data into local storage, or into remote storage (cloud or IPFS), under their control. OwnYou will make it easy for users to choose how and where that data it stored. 
+OwnYou will provide the means for individuals to aggregate their personal data and verified credentials into local storage, or into remote storage (cloud or IPFS), under their control. OwnYou will make it easy for users to choose how and where that data it stored. *OwnYou does not store personal data.*
 
 The MVP demonstrates how a user controlled app can create decentralized storage managed by the user, to consolidate their emails, personal calendar, financial records and photos. 
+
 In a steady state, we want to create connectors that connect to the user's data and automatically syncs for all future updates. The MVP should accommodate manual refreshes.
 
 #### Extracting Target Audience Data from Personal Data
-OwnYou will provide infrastructure, or leverage a third-party decentralized compute networks, for individuals (or their agents) to run third-party inference algorithms on their personal data, without sacrificing control or privacy. The result is a list of the most relevant target advertising topics and a list of relevant goods and services for price comparison and direct marketing opportunities. 
+OwnYou will provide infrastructure, or leverage a third-party decentralized compute networks, for individuals (or their agents) to run third-party inference algorithms on their personal data, without sacrificing control or privacy. This results in a list of the most relevant target advertising topics to the user, and a list of relevant goods and services for price comparison and direct marketing opportunities. 
 
 The MVP demonstrates how we can run basic inference on the individual's data with weaker privacy guarantees, but still resulting in target advertising topics than conform to IAB Tech labs target audience taxonomy.
 
